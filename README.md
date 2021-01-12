@@ -28,13 +28,13 @@ SELECT * FROM Measure
 
 **In today's lesson**, we're going to create a recipe/ingredients database with MongoDB similar to the SQL database from before.  
 
-![](/Users/temple/Documents/dev/typora/mongo.png)
+![](mongo.png)
 
 
 
 **But first!** Where are we in our journey?
 
-![](/Users/temple/Desktop/MERN-stack-1.png)
+![](MERN-stack-1.png)
 
 **Curious about the Capstone?**  Check out this full stack MERN project tutorial, it's very similar!
 

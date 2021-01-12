@@ -8,7 +8,7 @@
 
 
 
-... but even more than that, we did some ==**pattern matching**==. :crystal_ball: Take this SQL example...
+... but even more than that, we did some **pattern matching.** :crystal_ball: Take this SQL example...
 
 
 
